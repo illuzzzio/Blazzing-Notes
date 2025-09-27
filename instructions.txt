@@ -1,0 +1,1 @@
+Controllers - are the function used inside the http methods , we can create a differnt folder in the backend and then a js file , and can put this controllers into them to use them more effectively in the code.
